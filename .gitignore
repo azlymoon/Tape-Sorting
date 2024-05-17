@@ -1,3 +1,10 @@
+# Ignoring build directory
+/build
+
+# Ignoring idea directory
+/.idea
+
+
 # Prerequisites
 *.d
 
